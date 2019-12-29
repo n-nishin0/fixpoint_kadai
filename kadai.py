@@ -40,7 +40,6 @@ def Number_of_accesses_per_hour(dict, line, start_date=None, end_date=None):
         
 if __name__ == "__main__":
     args = get_option()
-    #log_data_list = []
     dict = {}
 
     for i in range(0,len(args.filename)):
