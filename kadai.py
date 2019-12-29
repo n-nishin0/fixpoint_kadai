@@ -1,6 +1,5 @@
 #-*-coding:utf-8-*-
 import apache_log_parser
-import re
 import sys
 from pprint import pprint
 from argparse import ArgumentParser
