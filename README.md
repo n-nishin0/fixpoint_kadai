@@ -66,12 +66,6 @@ python kadai.py -f sample_log.log
 + ファイル名を複数書いた場合、同じ日付（時間単位）で同じIPの場合は結果がマージされる。
 + ログファイルのパスはあらかじめプログラム内で指定している(/var/log/httpd/access_log)ため不要。
 
-# Author
-
-* 作成者：西野　直登
-* 所属：北海道大学　情報科学院　修士1年
-* E-mail：n-nishino@eis.hokudai.ac.jp / naoto8469@gmail.com
-
 # License
 
 "apache_log_parser" is © 2013-2015 Rory McCann, released under the terms of the GNU GPL v3 (or at your option a later version). If you'd like a different licence, please email rory@technomancy.org
